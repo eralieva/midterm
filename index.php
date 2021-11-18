@@ -14,7 +14,7 @@
  <p>My contact :0500211003</p>
  
  
-    <img src="image/1.jpeg" alt="">
+    <img src="1.jpeg" alt="">
 </body>
 </html>
 
